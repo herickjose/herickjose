@@ -10,5 +10,6 @@ Estudante do curso de Engenharia de Computação, novo nesse mundo de tecnologia
 ##
 
 <p align="center">
-   <a href = "mailto:herickjose.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href = "mailto:herickjose.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/herick-josé-albuquerque-5ba595267" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
