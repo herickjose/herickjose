@@ -11,3 +11,4 @@ Estudante do curso de Engenharia de Computação, novo nesse mundo de tecnologia
 
 <p align="center">
    <a href = "mailto:herickjose.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
