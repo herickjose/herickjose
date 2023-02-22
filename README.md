@@ -1,6 +1,8 @@
 <h1 align="center">Olá, me chamo Herick 👋</h1>
 
-Estudante do curso de Engenharia de Computação, novo nesse mundo de tecnologia e inovação. Busco me reinventar e aprender coisas novas 😃.
+<p align="center">
+  Estudante do curso de Engenharia de Computação, novo nesse mundo de tecnologia e inovação. Busco me reinventar e aprender coisas novas 😃.
+</p>
 
 <p align="center">
   <img width="400" alt="Herick José github stats" src="https://github-readme-stats.vercel.app/api?username=herickjose&count_private=true&theme=dark&show_icons=true" />
